@@ -4,7 +4,7 @@
 *
 * Arquivo: cavalos.por
 * Data: 05/03/2026
-* Autor: Ronildo Aparecido Ferreira
+* Autor: Eduardo K. Oliveira e Giovanni Rovesta
 * Descrição: 
 * O Haras Cavalos Brilhantes compra cavalos com frequência. Ler a quantidade de cavalos
 * adquiridos recentemente, calcular a quantidade de ferraduras necessárias para os novos cavalos e exibir
