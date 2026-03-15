@@ -1,0 +1,22 @@
+/*
+* Instituição: EtecVAV - Vasco Antonio Vechiarutti
+*
+* Arquivo: idade.por
+* Data: 05/03/2026
+* Autor: Eduardo K. Oliveira e Giovanni Rovesta
+* Descrição: 
+* Peso, kg e gramas
+*/
+programa
+{
+	
+	real quilos, gramas
+	funcao inicio()	{
+
+ escreva("Quantos quilos você tem?\n\n")
+ leia(quilos)
+ gramas = 1000*quilos
+  escreva("\n")
+  escreva("Você pesa ",gramas," gramas \n")
+  }
+}
