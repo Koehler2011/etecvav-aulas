@@ -1,0 +1,24 @@
+/*
+* Instituição: EtecVAV - Vasco Antonio Vechiarutti
+*
+* Arquivo: idade.por
+* Data: 05/03/2026
+* Autor: Eduardo K. Oliveira e Giovanni Rovesta
+* Descrição: 
+* Combustivel, litros, valor
+*/
+programa
+{
+	
+	real litros, preco = 3.59, valor
+	funcao inicio()	{
+
+    escreva("Ola, vai querer quantos litros de etanol ",litros,"?\n\n")
+    leia(litros)
+     escreva("\n")
+
+valor = litros*preco
+   escreva("\n")
+    escreva("Deu ",litros," litros, o etanol ta ",preco," reais, vai te custar: ",valor,"reais \n")
+  }
+}
