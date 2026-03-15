@@ -5,7 +5,7 @@
 * Data: 05/03/2026
 * Autor: Eduardo K. Oliveira e Giovanni Rovesta
 * Descrição: 
-* Ler 
+* Area do triângulo
 */
 programa
 {
